@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: April 2, 2023 Sunday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: TicTacToe Game from Udemy c# MasterClass
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Wrote a complete c# program from Scratch.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://github.com/Pavithra3001/Codings/tree/main/Day_1
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
